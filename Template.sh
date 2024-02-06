@@ -12,4 +12,4 @@ mv "/Library/Application Support/OpenDNS Roaming Client/XXX.plist" "/Library/App
 # adding a bit of a wait for good measure
 sleep 10s
 
-/usr/sbin/installer -pkg "/Library/Addigy/ansible/packages/Internos Umbrella Installer (1.0.0)/RoamingClient_MAC_3.0.29.pkg" -target /
+/usr/sbin/installer -pkg "/Library/Addigy/ansible/packages/XXX XXX XXX (?.?.?)/RoamingClient_MAC_3.0.29.pkg" -target /
